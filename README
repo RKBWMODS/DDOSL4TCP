@@ -1,0 +1,6 @@
+pkg install python3
+pkg install git
+git clone https://github.com/RKBWMODS/DDOSL4TCP
+cd DDOSL4TCP
+pip install -r requirements.txt
+python3 dizstart.py
